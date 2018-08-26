@@ -1,0 +1,103 @@
+math.ceil(x)
+
+math.floor(x)
+
+math.fabs(x)
+
+math.fmod(x,y)
+
+math.frexp(x)
+
+math.fsum(x)
+
+math.gcd(x, y)
+
+math.modf(x)
+
+math.trunc(x)
+
+math.exp(x)
+
+math.log(x, y)
+
+math.pow(x, y)
+
+math.pow(x, y, z)
+
+math.sqrt(x)
+
+math.acos(x)
+
+math.asin(x)
+
+math.atan(x)
+
+math.cos(x)
+
+math.sin(x)
+
+math.tan(x)
+
+math.degrees(x)
+
+math.radians(x)
+
+statistics.mean(x)
+
+statistics.harmonic_mean(x)
+
+statistics.median(x)
+
+statistics.median_low(x)
+
+statistics.median_high(x)
+
+statistics.median_grouped(x,y)
+
+statistics.mode(x)
+
+statistics.pstdev(x)
+
+statistics.pvariance(x)
+
+statistics.stdev(x)
+
+statistics.variance(x)
+
+abs(x)
+
+divmod(x, y)
+
+pow(x, y)
+
+len(x)
+
+min(x)
+
+max(x)
+
+x.count(y)
+
+x.index(y)
+
+del x[y:z]
+
+x.append(y)
+
+x.extend(y)
+
+x *= y
+
+x.insert(y, z)
+
+x.pop()
+
+x.remove(y)
+
+x.reverse()
+
+x.sort()
+
+x.join(y)
+
+x.replace(y,z)
